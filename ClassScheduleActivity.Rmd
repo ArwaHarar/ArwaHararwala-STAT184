@@ -8,7 +8,7 @@ output:
     fig_width: 5
 ---
 
-# Class Schedule (Complete Example)
+# Class Schedule
 
 ### STAT 184: Introduction to R Programming
 
