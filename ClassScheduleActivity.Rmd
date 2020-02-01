@@ -1,6 +1,6 @@
 ---
 title: "Markdown Class Schedule"
-author: "Beckman"
+author: "Arwa Hararwala"
 date: "January 31, 2020"
 output: 
   html_notebook:
